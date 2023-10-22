@@ -1,4 +1,3 @@
-
 import os
 os.system('cls')
 
@@ -8,3 +7,5 @@ rename=student["name"]
 print(rename)
 student.update({"name":"Aditya"})
 print(student["name"])
+value=student.get("age")
+print(value)
