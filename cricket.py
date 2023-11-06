@@ -1,6 +1,5 @@
 # import modules
 from tkinter import *
-import macpath
 from tkinter import messagebox
 sports=str(input('M.C:')) 
 def cricket_info():
